@@ -1,4 +1,4 @@
-# Foul Project README
+# NBA Foul Project
 
 ## Introduction
 This project is a Python-based data analysis initiative focused on sports analytics, featuring scripts for data collection and analysis, particularly in identifying trends in sports data. 
